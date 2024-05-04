@@ -12,7 +12,7 @@ I am a passionate B.Sc CSE student at IUT(Bangladesh), driven by a curiosity for
 - 🛫 I love to travel. 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 ## 🌱 Currently Exploring
 
